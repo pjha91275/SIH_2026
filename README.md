@@ -1,6 +1,8 @@
-# Student Development Passport Portal (SIH25093 MVP)
+# StudentSetu - Student Development Passport Portal (SIH25093 MVP)
 
 A centralized, evidence-aware, and appropriately verified Student Development Passport system for Higher Educational Institutions. Built for the SIH 2026 Internal Hackathon.
+
+🌐 Live project: https://student-setu-iota.vercel.app
 
 ## Project Scope
 This MVP focuses on the core student record lifecycle:
